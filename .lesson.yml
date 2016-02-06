@@ -1,0 +1,9 @@
+---
+title: "Ballot Results"
+type: "challenge"
+description: "Use compound data structures to analyze voter data"
+tags: "compound-data-structures, 2d-arrays"
+visibility: "public"
+ignore:
+- "ballot_results.md"
+- "solution.rb"
